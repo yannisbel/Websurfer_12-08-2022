@@ -44,3 +44,5 @@ Après l'exécution de cette commande, rendez-vous dans votre navigateur sur l'u
 1. Installer les dependances en utilisant `setup.bat`
 2. Lancer le site en utilisant `run.bat`
 3. Rendez-vous ensuite à l'adresse http://localhost.com:4200
+
+Yannis Belkhiter
