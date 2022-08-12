@@ -1,6 +1,6 @@
 # Websurfer_12-08-2022
-#Ce GitHub contient le code source du Jeu du Websurfeur. Ce travail fait suite à celui de Grégory Hoareau, qui a commencé l'élaboration du jeu.
-#J'ai pu continuer son travail dans le cadre d'un stage de 7 semaines à l'INRIA, et j'y ai développé la focntionnalité Jeu Libre.
+Ce GitHub contient le code source du Jeu du Websurfeur. Ce travail fait suite à celui de Grégory Hoareau, qui a commencé l'élaboration du jeu.
+J'ai pu continuer son travail dans le cadre d'un stage de 7 semaines à l'INRIA, et j'y ai développé la focntionnalité Jeu Libre.
 
 # TER-TerraNumerica
 
